@@ -1,0 +1,23 @@
+[main]
+Description=connection to Strathclyde Academic Network
+Host=vpn1.cc.strath.ac.uk
+AuthType=1
+GroupName=entry
+GroupPwd=
+enc_GroupPwd=897621C56E50C5F94CE6DC3A6932D0E35BC0E394A9BF3AEB89B5401BF13B4D0C7D1439F05AF2B101C65B069F6484A39E
+EnableISPConnect=0
+ISPConnect=
+SaveUserPassword=0
+UserPassword=
+enc_UserPassword=
+NTDomain=
+EnableBackup=0
+EnableMSLogon=1
+MSLogonType=1
+EnableNat=1
+CertStore=0
+CertName=
+CertPath=
+DHGroup=2
+ForceKeepAlives=0
+PeerTimeOut=90
